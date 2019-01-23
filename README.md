@@ -1,1 +1,2 @@
-# EngineProgramming
+# Engine Programming - AI Assignment
+In this project there is an patrol entity which does a path of 4 waypoints (more can be added or modify their positions) as a patroling system. If the entity player aproches the patrol entity a certain distance value, the patrol will follow the player until the distance is bigger than the value again. There is only one patrol entity (a little spaceship), the rest of spaceships are "decoration".
